@@ -61,6 +61,7 @@ This repository is build upon the [MGD](https://github.com/yzd-v/MGD/tree/master
 @inproceedings{lidetkds,
   title={DetKDS: Knowledge Distillation Search for Object Detectors},
   author={Li, Lujun and Bao, Yufan and Dong, Peijie and Yang, Chuanguang and Li, Anggeng and Luo, Wenhan and Liu, Qifeng and Xue, Wei and Guo, Yike},
-  booktitle={Forty-first International Conference on Machine Learning}
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
 }
 ```
