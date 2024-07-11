@@ -1,7 +1,7 @@
 # [ICML2024] DetKDS: Knowledge Distillation Search for Object Detectors
 
 
-## ![image-20240625185810686](main.png)
+## ![image-20240625185810686](DetKDS-ICML2024-poster.png)
 
 Official PyTorch implementation of DetKDS, accepted by ICML2024 
 
